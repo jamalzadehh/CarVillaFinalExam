@@ -1,0 +1,773 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\9b5b780d-4fe4-4be7-af28-b0984d611425download.png",
+      "PackagePath": "staticwebassets\\assets\\images\\9b5b780d-4fe4-4be7-af28-b0984d611425download.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\brand\\br6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\d12b528a-81c1-47ba-9f2a-aef98a74fa90download.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d12b528a-81c1-47ba-9f2a-aef98a74fa90download.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\fb5b35f2-c068-4e0d-a18d-ed66776e6fccdownload.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fb5b35f2-c068-4e0d-a18d-ed66776e6fccdownload.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc7.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\featured-cars\\fc8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc8.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\new-cars-model\\ncm1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\new-cars-model\\ncm2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\new-cars-model\\ncm3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\images\\welcome-hero\\welcome-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\welcome-hero\\welcome-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\assets\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\51e380ec-1a60-45a5-86eb-82817fec6937download.png",
+      "PackagePath": "staticwebassets\\images\\51e380ec-1a60-45a5-86eb-82817fec6937download.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\7b37647a-7b5d-4288-af3e-708e607f4107download.png",
+      "PackagePath": "staticwebassets\\images\\7b37647a-7b5d-4288-af3e-708e607f4107download.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\js\\template.js",
+      "PackagePath": "staticwebassets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.12\\Desktop\\Carvilla\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Carvilla.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Carvilla.props",
+      "PackagePath": "build\\Carvilla.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Carvilla.props",
+      "PackagePath": "buildMultiTargeting\\Carvilla.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Carvilla.props",
+      "PackagePath": "buildTransitive\\Carvilla.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

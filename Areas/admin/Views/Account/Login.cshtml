@@ -1,0 +1,42 @@
+﻿@model LoginVM
+<div class="row w-100 mx-0">
+    <div class="col-lg-4 mx-auto">
+        <div class="auth-form-light text-left py-5 px-4 px-sm-5">
+            <div class="brand-logo">
+                <img src="~/Admin/images/logo-mini.svg" alt="logo">
+            </div>
+            <h4>New here?</h4>
+            <h6 class="font-weight-light">Signing up is easy. It only takes a few steps</h6>
+            <form class="pt-3" method="post">
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                <div class="form-group">
+                    <label asp-for="UsernameOrEmail">UserName Or Email</label>
+                    <input asp-for="UsernameOrEmail" class="form-control form-control-lg" placeholder="UserName Or Email">
+                    <span class="text-danger" asp-validation-for="UsernameOrEmail"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password">Password</label>
+                    <input type="password" asp-for="Password" class="form-control form-control-lg" placeholder="Password">
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+
+                <div class="mb-4">
+                    <div class="form-check">
+                        <label asp-for="IsRemembered">
+                            <input asp-for="IsRemembered" type="checkbox" class="form-check-input" placeholder="Remember Me">
+                            Remember me
+                        </label>
+                    </div>
+                </div>
+                <div class="mt-3">
+                    <button type="submit" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">Login</button>
+                </div>
+                <div class="text-center mt-4 font-weight-light">
+                    Do not have an account? <a asp-action="register" asp-controller="account" asp-area="Admin" class="text-primary">Register</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+       
+<!-- content-wrapper ends -->
